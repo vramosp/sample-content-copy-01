@@ -768,6 +768,7 @@ models:
             - grid_item
         default: 
           - type: grid_item
+            title: lalala
             image: images/logo-5.svg
             image_alt: Logo 5
             image_align: center

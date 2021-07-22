@@ -766,6 +766,12 @@ models:
           type: model
           models:
             - grid_item
+        default: 
+          - type: grid_item
+          title: lalalal
+          image: images/logo-5.svg
+          image_alt: Logo 5
+          image_align: center
       - type: enum
         name: grid_cols
         label: Grid columns

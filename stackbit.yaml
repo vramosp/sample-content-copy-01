@@ -1460,7 +1460,7 @@ models:
           - left
           - right
           - center
-        default: left
+        default: center
         description: The horizontal alignment of the item title and subtitle
       - type: markdown
         name: content

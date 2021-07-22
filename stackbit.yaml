@@ -766,7 +766,9 @@ models:
           type: model
           models:
             - grid_item
-        default
+        default:
+          - type: image
+          - image: images/logo-5.svg
       - type: enum
         name: grid_cols
         label: Grid columns

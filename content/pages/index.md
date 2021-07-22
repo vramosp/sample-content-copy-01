@@ -51,11 +51,7 @@ sections:
       - image: images/logo-8.svg
         image_alt: Logo 8
         image_align: center
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: center
-        content: >-
-          ## Lorem ipsum
+
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
